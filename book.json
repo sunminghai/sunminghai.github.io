@@ -1,43 +1,8 @@
 {
     "gitbook": "3.2.3",
-    "title": "孙明海同学",
-    "description": "http://wuxiaolong.me/",
-    "author": "WuXiaolong",
+    "title": "学习笔记",
+    "author": "小明同学",
+    "description": "记录个人学习相关笔记文档",
     "language": "zh-hans",
-    "pluginsConfig": {
-        "sharing": {
-            "douban": false,
-            "facebook": false,
-            "google": false,
-            "hatenaBookmark": false,
-            "instapaper": false,
-            "line": false,
-            "linkedin": false,
-            "messenger": false,
-            "pocket": false,
-            "qq": false,
-            "qzone": false,
-            "stumbleupon": false,
-            "twitter": false,
-            "viber": false,
-            "vk": false,
-            "weibo": false,
-            "whatsapp": false,
-            "all": [
-                "weibo",
-                "qq",
-                "qzone",
-                "google",
-                "douban"
-            ]
-        },
-        "theme-default": {
-            "showLevel": true
-        },
-        "fontsettings": {
-            "theme": "white",
-            "family": "serif",
-            "size": 2
-        }
-    }
+    "root": "."
 }
