@@ -4,5 +4,34 @@
     "author": "小明同学",
     "description": "记录个人学习相关笔记文档",
     "language": "zh-hans",
-    "root": "."
+    "root": ".",
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": true,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": true,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper", "linkedin",
+                "pocket", "stumbleupon", "qq", "qzone"
+            ]
+        }
+    }
 }
